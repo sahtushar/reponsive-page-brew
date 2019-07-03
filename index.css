@@ -399,5 +399,14 @@ body{
     }
 }
 
+@media screen and (max-width:576px) {
+    .title {
+        padding-left: 15% !important;
+        padding-right: 15% !important;
+    }
+}
+
+
+
 /*about 4 ended*/
 
